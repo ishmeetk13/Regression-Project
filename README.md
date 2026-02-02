@@ -25,7 +25,7 @@ To solve this, I implemented:
 * **Feature Scaling:** Applied Z-score normalization via `StandardScaler` to ensure that the regularization penalty was applied uniformly across all features regardless of their original units.
 
 ## Residual Analysis
-The residual plot shows a random scatter around the zero line, confirming that the model has captured the structural patterns in the data. However, the analysis identified the following limitations:
+The residual plot shows a random scatter around the zero line, confirming that the model has captured the structural patterns in the data. 
 
 ---
 
